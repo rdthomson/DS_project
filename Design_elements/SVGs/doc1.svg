@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st2{fill:#808080;stroke:#000000;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:none;}
+</style>
+<g>
+	<path d="M436,201l53.5,53.5V558H247V201H436 M438,196H242v367h252.5V252.5L438,196L438,196z"/>
+</g>
+<g>
+	<polygon class="st0" points="494.5,252.5 438,196 438,196 494.5,252.5 	"/>
+	<polygon points="438,196 438,196 494.5,252.5 494.5,252.5 438,196 	"/>
+</g>
+<g>
+	<polygon class="st0" points="440.5,250 440.5,202 488.5,250 	"/>
+	<path d="M443,208.1l39.4,39.4H443V208.1 M438,196v56.5h56.5L438,196L438,196z"/>
+</g>
+<circle class="st1" cx="370" cy="393" r="32.9"/>
+<circle class="st1" cx="369.6" cy="393.1" r="98.4"/>
+<path class="st2" d="M378.6,410.8h-16.4c-5.3,0-9.5-4.3-9.5-9.5V297.8c0-1.9,1.5-3.5,3.5-3.5h28.5c1.9,0,3.5,1.5,3.5,3.5v103.4
+	C388.1,406.5,383.9,410.8,378.6,410.8z"/>
+<circle class="st3" cx="370.1" cy="393.1" r="12.3"/>
+<path class="st4" d="M357.1,329.7v-23.9c0-4,3.3-7.2,7.2-7.2h12.4c4,0,7.2,3.3,7.2,7.2v23.9c0,4-3.3,7.2-7.2,7.2h-12.4
+	C360.4,336.9,357.1,333.6,357.1,329.7z"/>
+<path id="SVGID_x5F_1_x5F_" class="st5" d="M386,330.4c34.6,9.2,55.2,44.7,46,79.3c-9.2,34.6-44.7,55.2-79.3,46
+	c-34.6-9.2-55.2-44.7-46-79.3C316,341.8,351.4,321.2,386,330.4z"/>
+<text><textPath  xlink:href="#SVGID_x5F_1_x5F_" startOffset="98.8281%">
+<tspan  style="font-family:'MyriadPro-Regular'; font-size:32.7256px;">1    2    3    4    5    6    7    8    9    0 </tspan></textPath>
+</text>
+</svg>
