@@ -3,15 +3,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 </style>
 <circle class="st0" cx="683" cy="384" r="153.5"/>
+<circle class="st0" cx="668.8" cy="482.3" r="17.3"/>
+<circle class="st0" cx="744.5" cy="339.5" r="30"/>
+<circle class="st0" cx="614.8" cy="332.3" r="23.3"/>
 <circle class="st0" cx="747.5" cy="340.5" r="27"/>
 <circle class="st0" cx="774.5" cy="456.5" r="8"/>
-<circle class="st0" cx="744.5" cy="339.5" r="30"/>
 <circle class="st0" cx="670.5" cy="482.8" r="15.5"/>
-<circle class="st0" cx="668.8" cy="482.3" r="17.3"/>
 <circle class="st0" cx="617.1" cy="333" r="20.9"/>
-<circle class="st0" cx="614.8" cy="332.3" r="23.3"/>
 <circle class="st0" cx="666.5" cy="391.5" r="8"/>
 </svg>
