@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:#9B4D45;}
+</style>
+<g>
+	<path d="M728.9,524.7c2.2,10.1,13.2,60.7,10.9,81.1c-0.8,7.2-3.4,12.6-7.3,15.3c-4,2.7-8.9,2.3-14.1-1.2
+		c-10.4-7-17.1-23.6-15.6-38.9C704.9,560.5,724.8,530.5,728.9,524.7"/>
+	<path d="M688.4,525.9c2.2,10.1,13.2,60.7,10.9,81.1c-0.8,7.2-3.4,12.6-7.3,15.3c-4,2.7-8.9,2.3-14.1-1.2
+		c-10.4-7-17.1-23.6-15.6-38.9C664.5,561.7,684.4,531.7,688.4,525.9"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="622.2457" y1="485.6159" x2="785.0173" y2="485.6159">
+	<stop  offset="0" style="stop-color:#3FB6FF"/>
+	<stop  offset="1" style="stop-color:#013A3E"/>
+</linearGradient>
+<path class="st0" d="M623,547.5h-0.2l0.7-2c0.4-1.3,1-2.6,1.4-3.9l62.4-166.9l92,152.5c1,1.3,1.8,2.7,2.5,4.2l1.1,1.8h-0.2
+	c6.2,14.4,0,30.8-19.1,44.1c-30.2,21.1-81.8,25.5-114.9,9.9C628.2,577.4,619.5,562.5,623,547.5z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="669.4631" y1="378.3925" x2="705.2369" y2="378.3925">
+	<stop  offset="0" style="stop-color:#FFCFA5"/>
+	<stop  offset="1" style="stop-color:#FFA418"/>
+</linearGradient>
+<path class="st1" d="M682.1,413l16.7-1.5c3.9-0.4,6.8-3.8,6.4-7.7l-4.9-53.6c-0.4-3.9-3.8-6.8-7.7-6.4l-16.7,1.5
+	c-3.9,0.4-6.8,3.8-6.4,7.7l4.9,53.6C674.8,410.5,678.2,413.3,682.1,413z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="618.4133" y1="306.3" x2="763.6133" y2="306.3">
+	<stop  offset="0" style="stop-color:#FFCFA5"/>
+	<stop  offset="1" style="stop-color:#FFA418"/>
+</linearGradient>
+<circle class="st2" cx="683.3" cy="306.3" r="72.6"/>
+<path class="st3" d="M753.5,269.3c20.7,36.8,39.5,119.1,17.1,143.6c-31.8,34.9-170-144.9-129-168.1
+	C682.9,221.6,732.9,232.6,753.5,269.3z"/>
+</svg>
