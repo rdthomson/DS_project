@@ -1,0 +1,350 @@
+
+#body1 {
+  position: relative;;
+  background: url(/static/images/background.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+height: 2570px;
+}
+
+#body2 {
+  background: url(/static/images/problems.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #f36f54
+}
+
+
+
+
+@media only screen and (min-width: 1200px) and (max-width: 21560px)   {
+    .menu {
+      position:absolute;
+      left: 7190px;
+      top: 15px;
+    }
+
+    #body1 {
+      height: 2970px;
+    }
+
+    #eye {
+      top: 500px;
+      position: absolute;
+      left: 800px;
+    }
+    #rap {
+      top: 430px;
+      position: absolute;
+      left: 300px;
+    }
+    #school {
+      top: 700px;
+      position: absolute;
+      left: 1425px;
+    }
+    #friend1 {
+      top: 1475px;
+      position: absolute;
+      left: 950px;
+    }
+    #sign1 {
+      top: 885px;
+      position: absolute;
+      left: 505px;
+    }
+    #sign2 {
+      top: 1460px;
+      position: absolute;
+      left: 1500px;
+    }
+    #tablet {
+      width: 100px;
+      height: 100px;
+      top: 1575px;
+      position: absolute;
+      left: 1665px;
+    }
+    #wine {
+      top: 1365px;
+      position: absolute;
+      left: 1765px;
+    }
+    #document {
+      width: 200px;
+      height: 200px;
+      top: 1920px;
+      position: absolute;
+      left: 695px;
+    }
+    #popup  {
+      position:absolute;
+      left:56vw;
+      top:31vh;
+      opacity:0;
+      transition:all 1s;
+      -webkit-transition:all 1s;
+    }
+  }
+
+p{
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.eye {
+  width: 150px;
+  height: 150px;
+  top: 450px;
+  position: absolute;
+  left: 650px;
+}
+
+.rap {
+  width: 100px;
+  height: 200px;
+  top: 350px;
+  position: absolute;
+  left: 300px;
+}
+
+.school {
+  width: 450px;
+  height: 450px;
+  top: 540px;
+  position: absolute;
+  left: 1225px;
+   z-index: 1;
+}
+
+.friend1 {
+  width: 90px;
+  height: 150px;
+  top: 1270px;
+  position: absolute;
+  left: 850px;
+}
+
+.sign1 {
+  width: 100px;
+  height: 250px;
+  top: 755px;
+  position: absolute;
+  left: 435px;
+}
+
+.sign2 {
+  width: 100px;
+  height: 250px;
+  top: 1245px;
+  position: absolute;
+  left: 1315px;
+}
+
+.tablet {
+  width: 100px;
+  height: 100px;
+  top: 1575px;
+  position: absolute;
+  left: 1665px;
+}
+
+.wine {
+  width: 130px;
+  height: 130px;
+  top: 1115px;
+  position: absolute;
+  left: 1465px;
+}
+
+.document {
+  width: 200px;
+  height: 200px;
+  top: 1665px;
+  position: absolute;
+  left: 585px;
+}
+
+.allfriends {
+  width: 200px;
+  height: 170px;
+  top: 2525px;
+  position: absolute;
+  left: 1175px;
+
+}
+.popup {
+  position:absolute;
+  left:60vw;
+  top:40vh;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+}
+
+.popup1 {
+  position:absolute;
+  top: 390px;
+  left: 380px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+
+}
+
+.popup2 {
+  position:absolute;
+  top: 655px;
+  left: 725px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+
+}
+
+.popup3 {
+  position:absolute;
+  top: 1000px;
+  left: 90px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+}
+
+.popup4 {
+  top: 1685px;
+  position: absolute;
+  left: 900px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+}
+
+.popup5 {
+  top: 1175px;
+  position: absolute;
+  left: 1165px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+}
+
+.popup6 {
+  position:absolute;
+  top: 1550px;
+  left: 890px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+}
+
+.popup7 {
+  position:absolute;
+  top: 2350px;
+  left: 700px;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+}
+
+.menu {
+  position:absolute;
+  height: 35px;
+  left: 920px;
+  top: 21px;
+}
+
+.fb {
+  position:absolute;
+  width: 80px;
+  top: 2870px;
+  left: 1470px;
+  height: 65px;
+}
+
+.inst {
+  position:absolute;
+  width: 80px;
+  top: 2870px;
+  left: 1350px;
+  height: 65px;
+}
+
+.popup div, .popup1 div, .popup2 div, .popup3 div, .popup4 div, .popup5 div, .popup6 div, .popup7 div
+{
+  width:700px;
+  font-size:13px;
+}
+
+.popup div, .popup1 div, .popup2 div, .popup3 div, .popup4 div, .popup5 div, .popup6 div, .popup7 div
+{
+  padding:25px;
+  background:rgba(0,0,0,0.5);
+  border-radius:40px;
+  color:white;
+  text-align:left;
+}
+
+
+img:hover{
+  cursor:pointer;
+}
+
+#allfriends:hover ~.popup7
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+#document:hover ~.popup6
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+#wine:hover ~.popup5
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+
+#tablet:hover ~.popup4
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+#friend1:hover ~.popup3
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+#school:hover ~.popup2
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+#rap:hover ~.popup1
+{
+  margin-left:45px;
+  margin-top:-20px;
+  opacity:1;
+}
+
+#eye:hover ~.popup
+{
+  margin-left:45px;
+  margin-top:-30px;
+  opacity:1;
+
+}
